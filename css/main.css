@@ -21,7 +21,6 @@ Table of contents
 
 body {
     font-family: 'Muli', sans-serif;
-    height: 5000px;
 }
 
 /* ==========================
@@ -699,4 +698,8 @@ body {
 
 /* Large devices (desktops, less than 1200px) */
 @media (max-width: 1199.98px) {
+}
+
+.icon-size{
+    font-size: 24px;
 }
